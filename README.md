@@ -1,2 +1,7 @@
-# gabrielealbertini.github.io
-Website
+# Gabriele Albertini Research
+
+![CV](cv.pdf)
+
+![Friction]()
+
+![Fracture]()
