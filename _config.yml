@@ -1,5 +1,10 @@
 theme: jekyll-theme-minimal
 
+title: [Gabriele Albertini]
+description: [Research]
+logo: [profile_photo_id.jpg]
+show_downloads: ["true"]
+
 plugins:
   - jekyll-relative-links
 relative_links:

@@ -1,4 +1,2 @@
-# Gabriele Albertini Research
+Gabriele Albertini Research
 
-
-Website
