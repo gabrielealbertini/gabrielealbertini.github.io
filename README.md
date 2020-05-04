@@ -2,6 +2,6 @@
 
 ![CV](cv.pdf)
 
-![Friction]()
+## Friction
 
-![Fracture]()
+## Fracture
