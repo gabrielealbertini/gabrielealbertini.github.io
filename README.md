@@ -1,6 +1,6 @@
 # Gabriele Albertini Research
 
-![CV](gabriele_albertini_vitae.pdf)
+![CV](https://gabrielealbertini.github.io/gabriele_albertini_vitae.pdf)
 
 ## Friction
 
