@@ -8,6 +8,7 @@ relative_links:
 include:
   - CONTRIBUTING.md
   - README.md
+  - contact.md
   - LICENSE.md
   - COPYING.md
   - CODE_OF_CONDUCT.md
