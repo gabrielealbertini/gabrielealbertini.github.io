@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 
 title: Gabriele Albertini
-description: Research
+description: PhD Candidate at Cornell Universtiy
 logo: IMG_9317-2.jpg
 show_downloads: false
 
@@ -12,7 +12,6 @@ relative_links:
   collections: true
 include:
   - CONTRIBUTING.md
-  - README.md
   - contact.md
   - LICENSE.md
   - COPYING.md
