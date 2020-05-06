@@ -1,8 +1,4 @@
-**Research**
+## **Research** [Contact](contact.md) [CV](gabriele_albertini_vitae.pdf) 
 
-[Contact](contact.md) 
-
-[CV](gabriele_albertini_vitae.pdf) 
-
-## Friction
-## Fracture
+### Friction
+### Fracture
