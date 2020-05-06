@@ -1,4 +1,4 @@
-## [Research](research.md) **Contact** [CV](gabriele_albertini_vitae.pdf) 
+## [Research](research.md) - **Contact** - [CV](gabriele_albertini_vitae.pdf) 
 
 
 	Gabriele Albertini
