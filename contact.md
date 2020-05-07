@@ -7,7 +7,7 @@ address:
 	Cornell University
 	Ithaca NY, 14853
 
-email: [mailto](mailto:ga288@cornell.edu)
+email: [ga288@cornell.edu](mailto:ga288@cornell.edu)
 	
 twitter: [@GabriAlbertini](https://twitter.com/GabriAlbertini)
 	
