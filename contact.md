@@ -6,4 +6,10 @@
 	Cornell University
 	Ithaca NY, 14853
 
-	ga288@cornell.edu
+	email: ga288@cornell.edu
+	
+	twitter: [@GabriAlbertini](https://twitter.com/GabriAlbertini)
+	
+	linkedin: [gabriele-albertini](https://www.linkedin.com/in/gabriele-albertini-19005432/)
+	
+	
