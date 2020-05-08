@@ -8,7 +8,7 @@
 ## Friction/Earthquakes
 
 **Albertini, G.**, Karrer, S., Grigoriu, M. D., Kammer, D. S. 2020. “Stochastic Properties of Static Friction”,
-*under review*
+*under review*.
 
 
 Svetlizky, I.<sup>1</sup>, **Albertini, G.<sup>1</sup>**, Cohen, G., Kammer, D.S. and Fineberg, J. 2020. 
@@ -33,7 +33,7 @@ Ma, X., Hajarolasvadi, S., **Albertini, G.**, Kammer, D.S., Elbanna, A.E., 2019.
 
 **Albertini, G.**, Lebihain, M., Hild, F. Ponson, L. and Kammer, D.S. 2020. “Effective toughness of periodic hetero-
 geneous materials: the role of rate-dependent fracture energy”, 
-*under review*,
+*under review*.
 [arXiv:2003.13805 [cond-mat.soft]](https://arxiv-org.proxy.library.cornell.edu/pdf/2003.13805){:target="_blank"}
 
  
