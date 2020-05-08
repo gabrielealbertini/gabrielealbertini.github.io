@@ -4,7 +4,7 @@
 | | |
 |-|-|
 
-![](images/profile_photo_id_bw.png)
+![](images/profile_photo_id_bw.jpg)
 
 I work on failure of materials and friction/earthquakes. 
 I mainly use numerical modeling of solids, high-performance computing and theoretical models. 
