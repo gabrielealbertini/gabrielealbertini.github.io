@@ -16,7 +16,7 @@ Svetlizky, I.<sup>1</sup>, **Albertini, G.<sup>1</sup>**, Cohen, G., Kammer, D.S
 *Journal of the Mechanics and Physics of Solids* 137, 103826. 
 [https://doi.org/10.1016/j.jmps.2019.103826](https://doi.org/10.1016/j.jmps.2019.103826){:target="_blank"}
 \\
-<sup>1</sup> Equally Contributed
+<sup>1</sup>Equally Contributed
 
 Ma, X., Hajarolasvadi, S., **Albertini, G.**, Kammer, D.S., Elbanna, A.E., 2019. 
 "A hybrid finite element-spectral boundary integral approach: Applications to dynamic rupture modeling in unbounded domains", 
