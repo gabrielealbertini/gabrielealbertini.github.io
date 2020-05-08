@@ -7,6 +7,9 @@ show_downloads: false
 
 plugins:
   - jekyll-relative-links
+  - jekyll-gist
+  - jekyll-coffeescript
+  - jekyll-assets
 relative_links:
   enabled: true
   collections: true
