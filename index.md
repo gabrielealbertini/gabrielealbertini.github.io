@@ -1,4 +1,9 @@
-## [Research](research.md) - [Contact](contact.md) - [CV](gabriele_albertini_vitae.pdf) 
+|-|-|
+[Research](research.md) | [Contact](contact.md) | [CV](gabriele_albertini_vitae.pdf) |
+|-|-|
+| | |
+|-|-|
+
 
 I work on failure of materials and friction/earthquakes. 
 I mainly use numerical modeling of solids, high-performance computing and theoretical models. 
@@ -9,7 +14,7 @@ I am lucky to be advised by [David Kammer](https://ifb.ethz.ch/compmech) and my 
 
 I used numerical and theoretical models to uncover the *physical mechanisms governing friction* in a collaboration with [Jay Fineberg](http://old.phys.huji.ac.il/~jay/) and [Ilya Svetlizky](https://scholar.google.co.il/citations?user=44mVMhIAAAAJ&hl=en), who performed the experimental work.
 
-I worked on an experimental project on fracture of *multi-material 3D printed polymers* with [Laurent Ponson](http://www.laurentponson.com/).
+I worked on an experimental project on fracture of *multi-material 3D printed polymers* with [Laurent Ponson](http://www.laurentponson.com/) and [Mathias Lebihain](https://scholar.google.com/citations?user=ZUSWpmMAAAAJ&hl=en&oi=ao).
 
 I collaborated with [Ahmed Elbanna](https://publish.illinois.edu/mcslabuiuc/) on the development of a new *hybrid numerical method* coupling Finite Elements and Boundary Elements.
 

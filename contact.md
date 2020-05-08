@@ -1,16 +1,27 @@
-## [Research](research.md) - **Contact** - [CV](gabriele_albertini_vitae.pdf) 
+|-|-|
+[Research](research.md) | **Contact** | [CV](gabriele_albertini_vitae.pdf) |
+|-|-|
+| | |
+|-|-|
 
-address:
+![myself](images/profile_photo_id_bw.png)
 
-	Gabriele Albertini
-	Hollister Hall, 253
-	Cornell University
-	Ithaca NY, 14853
+
+Gabriele Albertini\\
+Hollister Hall, 253\\
+Cornell University\\
+Ithaca NY, 14853
 
 email: [ga288@cornell.edu](mailto:ga288@cornell.edu)
 	
-twitter: [@GabriAlbertini](https://twitter.com/GabriAlbertini)
+Twitter: [@GabriAlbertini](https://twitter.com/GabriAlbertini)
+
+[Google Scholar](https://scholar.google.com/citations?user=hcGejO0AAAAJ&hl)
 	
-linkedin: [gabriele-albertini](https://www.linkedin.com/in/gabriele-albertini-19005432/)
+[Linkedin](https://www.linkedin.com/in/gabriele-albertini-19005432/)
+
+
+	
+
 	
 	
