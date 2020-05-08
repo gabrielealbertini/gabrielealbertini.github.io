@@ -13,7 +13,7 @@
 Gabriele Albertini\\
 Hollister Hall, 253\\
 Cornell University\\
-Ithaca NY, 14853
+Ithaca, NY 14853
 
 email: [ga288@cornell.edu](mailto:ga288@cornell.edu)
 	
