@@ -6,7 +6,9 @@
 
 <!--<img src="images/profile_photo_id_bw.png" onmouseover="this.src='images/IMG-9237_ski_crop.JPG'" onmouseout="this.src='images/profile_photo_id_bw.png'" /> -->
 
-<img src="images/profile_photo_id_bw.png" onmouseover="this.src='images/IMG_9317-2_utah_small.jpg'" onmouseout="this.src='images/profile_photo_id_bw.png'" /> 
+<!--<img src="images/profile_photo_id_bw.png" onmouseover="this.src='images/IMG_9317-2_utah_small.jpg'" onmouseout="this.src='images/profile_photo_id_bw.png'" /> -->
+
+<img src="images/profile_photo_id_bw.png" onmouseover="this.src='images/IMG-8773-mnt_pleasant_32_small.JPG'" onmouseout="this.src='images/profile_photo_id_bw.png'" /> 
 
 Gabriele Albertini\\
 Hollister Hall, 253\\

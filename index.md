@@ -5,7 +5,6 @@
 |-|-|
 
 ![](images/profile_photo_id_bw.png)
-<!--<img src="images/profile_photo_id_bw.png" onmouseover="this.src='images/IMG_9317-2_utah_small.jpg'" onmouseout="this.src='images/profile_photo_id_bw.png'" /> -->
 
 I work on failure of materials and friction/earthquakes. 
 I mainly use numerical modeling of solids, high-performance computing and theoretical models. 
