@@ -4,6 +4,8 @@
 | | |
 |-|-|
 
+![](images/profile_photo_id_bw.png)
+<!--<img src="images/profile_photo_id_bw.png" onmouseover="this.src='images/IMG_9317-2_utah_small.jpg'" onmouseout="this.src='images/profile_photo_id_bw.png'" /> -->
 
 I work on failure of materials and friction/earthquakes. 
 I mainly use numerical modeling of solids, high-performance computing and theoretical models. 
@@ -20,4 +22,4 @@ I collaborated with [Ahmed Elbanna](https://publish.illinois.edu/mcslabuiuc/){:t
 
 Currently, I am using theoretical and numerical models to study the *stochastic properties of static friction* in collaboration with [Mircea Grigoriu](https://www.cee.cornell.edu/faculty-directory/mircea-dan-grigoriu){:target="_blank"}. 
 
-I am planning to work with [Greg McLaskey](https://courses.cit.cornell.edu/mclaskey/){:target="_blank"} and use theoretical and numerical models to uncover the friction law of laboratory scale earthquakes performed on 3m granite samples.
+I am planning to work with [Greg McLaskey](https://courses.cit.cornell.edu/mclaskey/){:target="_blank"} and use theoretical and numerical models to uncover the friction law of laboratory scale earthquakes performed on a 3m granite fault.
