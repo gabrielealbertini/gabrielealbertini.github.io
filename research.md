@@ -27,7 +27,7 @@ Ma, X., Hajarolasvadi, S., **Albertini, G.**, Kammer, D.S., Elbanna, A.E., 2019.
 
 **Albertini, G.**, Kammer, D.S., 2017. 
 [“Off-fault heterogeneities promote supershear transition of dynamic mode II cracks”](https://doi.org/10.1002/2017JB014301){:target="_blank"},
-*J. Geophys. Res. Solid Earth* 122, 2017JB014301.
+*Journal of Geophysical Research: Solid Earth* 122, 2017JB014301.
 
  
 
