@@ -4,8 +4,13 @@
 | | |
 |-|-|
 
+## Fracture ##
 
-## Friction/Earthquakes
+**Albertini, G.**, Lebihain, M., Hild, F. Ponson, L. and Kammer, D.S., 2020. 
+[“Effective toughness of periodic heterogeneous materials: the role of rate-dependent fracture energy”](https://arxiv-org.proxy.library.cornell.edu/pdf/2003.13805){:target="_blank"}, 
+*under review*.
+
+## Friction/Earthquakes ##
 
 **Albertini, G.**, Karrer, S., Grigoriu, M. D., Kammer, D. S., 2020. “Stochastic Properties of Static Friction”,
 *under review*.
@@ -26,11 +31,5 @@ Ma, X., Hajarolasvadi, S., **Albertini, G.**, Kammer, D.S., Elbanna, A.E., 2019.
 
  
 
-
-## Fracture
-
-**Albertini, G.**, Lebihain, M., Hild, F. Ponson, L. and Kammer, D.S., 2020. 
-[“Effective toughness of periodic heterogeneous materials: the role of rate-dependent fracture energy”](https://arxiv-org.proxy.library.cornell.edu/pdf/2003.13805){:target="_blank"}, 
-*under review*.
 
  

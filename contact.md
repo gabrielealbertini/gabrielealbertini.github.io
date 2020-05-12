@@ -15,16 +15,23 @@ Hollister Hall, 253\\
 Cornell University\\
 Ithaca, NY 14853
 
-email: [ga288@cornell.edu](mailto:ga288@cornell.edu)
+[ga288@cornell.edu](mailto:ga288@cornell.edu)
 	
-Twitter: [@GabriAlbertini](https://twitter.com/GabriAlbertini){:target="_blank"}
-
-[Google Scholar](https://scholar.google.com/citations?user=hcGejO0AAAAJ&hl){:target="_blank"}
-	
-[Linkedin](https://www.linkedin.com/in/gabriele-albertini-19005432/){:target="_blank"}
+<!--Twitter: [@GabriAlbertini](https://twitter.com/GabriAlbertini){:target="_blank"}-->
 
 
-	
 
-	
-	
+
+
+[GoogleScholar](https://scholar.google.com/citations?user=hcGejO0AAAAJ&hl){:target="_blank"}
+
+<a href="https://twitter.com/GabriAlbertini?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @GabriAlbertini</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[LinkedIn](https://www.linkedin.com/in/gabriele-albertini-19005432/){:target="_blank"}
+
+<!--
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="it_IT" data-type="horizontal" data-theme="light" data-vanity="gabriele-albertini-19005432"><a class="LI-simple-link" href='https://www.linkedin.com/in/gabriele-albertini-19005432?trk=profile-badge'>Gabriele Albertini</a></div>
+-->
+
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-9565-7571" href="https://orcid.org/0000-0001-9565-7571" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-9565-7571</a></div> 
