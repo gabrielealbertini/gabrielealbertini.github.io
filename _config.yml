@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 
 title: Gabriele Albertini
 logo: 013839_crop_crop_big_invert_crop.png
-description:  <a href="/research.html/fracture/">Crack zipping through a solid</a>
+description:  <a href="/research.html/">Crack zipping through a solid</a>
 show_downloads: false
 auto_ids: true
 
