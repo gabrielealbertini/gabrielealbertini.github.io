@@ -6,13 +6,15 @@
 
 ## Fracture ##
 
-![Fracture of Heterogeneous Materials](2020_3d_printed_fracture/Stripes_5.0_VC_VWDW_06_strain_images_v2_white_square.gif)
+![Fracture of Heterogeneous Materials](2020_3d_printed_fracture/Stripes_5.0_VC_VWDW_06_strain_images_v2_white_square_small.gif)
 
 *Albertini, G.*, Lebihain, M., Hild, F. Ponson, L. and Kammer, D.S., 2020. 
 [“Effective toughness of periodic heterogeneous materials: the role of rate-dependent fracture energy”](https://arxiv.org/abs/2003.13805){:target="_blank"}, 
 **under review**.
 
 ## Friction/Earthquakes ##
+
+<!--![Stochastic Properties of Static Friction](2020_stochastic_static_friction/fig01_model.png)-->
 
 *Albertini, G.*, Karrer, S., Grigoriu, M. D., Kammer, D. S., 2020. [“Stochastic Properties of Static Friction”](http://arxiv.org/abs/2005.06113){:target="_blank"},
 **under review**.
