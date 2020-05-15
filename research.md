@@ -6,6 +6,8 @@
 
 ## Fracture ##
 
+![3D printed sample with applied forces](2020_3d_printed_fracture/method_FIG1a.png)
+
 ![Fracture of Heterogeneous Materials](2020_3d_printed_fracture/Stripes_5.0_VC_VWDW_06_strain_images_v2_white_square_small.gif)
 
 *Albertini, G.*, Lebihain, M., Hild, F. Ponson, L. and Kammer, D.S., 2020. 
