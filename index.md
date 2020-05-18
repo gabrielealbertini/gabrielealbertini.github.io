@@ -21,7 +21,7 @@ I collaborated with [Ahmed Elbanna](http://publish.illinois.edu/mcslabuiuc/peopl
 
 Currently, I am using theoretical and numerical models to study the *stochastic properties of static friction* in collaboration with [Mircea Grigoriu](https://www.cee.cornell.edu/faculty-directory/mircea-dan-grigoriu){:target="_blank"}. 
 
-I am planning to work with [Greg McLaskey](https://courses.cit.cornell.edu/mclaskey/people.html){:target="_blank"} and use theoretical and numerical models to uncover the friction law of laboratory scale earthquakes performed on a 3m granite fault.
+I am planning to work with [Greg McLaskey](https://courses.cit.cornell.edu/mclaskey/people.html){:target="_blank"} and [Chun-Yu Ke](https://chunyuke.com/){:target="_blank"} and use theoretical and numerical models to uncover the friction law of laboratory scale earthquakes performed on a 3m granite fault.
 
 
 <!--I am wondering if you might add some broader statements about your work and your professional goals. What is your larger project? What questions interest you? What are the broader impacts of your work? What broader conversations in the field does your work contribute to?
