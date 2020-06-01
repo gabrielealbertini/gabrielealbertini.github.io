@@ -219,7 +219,7 @@ f=f(:,fxlim(1):fxlim(2));
 
 fig_fct=0.75
 xpad=20
-ypad=260
+ypad=290
 fig1=figure('Position',[0,0,(nx+xpad)*fig_fct,(ny*3+154+ypad)*fig_fct])
 
 set(fig1,'Color','w')
@@ -239,7 +239,7 @@ figxfct=(nx+xpad)/(nx+xpad);
 figyfct=(ny*3+154)/(ny*3+154+ypad)
 figyshift=(1-figyfct)/1.02;
 ploty=ny/(ny*3+154);
-timepos=[0.0,1.07,0]
+timepos=[0.0,1.03,0]
 cE.Position=   [0.07500*figxfct -0.2500*figyfct+figyshift 0.02500*figxfct 0.1500*figyfct];
 
 axraw.Position=[0.000*figxfct 0.6700*figyfct+figyshift figxfct ploty];
@@ -254,8 +254,8 @@ axw.Position(2)=  0.0300*figyfct+figyshift;
 axwf.Position = axw.Position;
 axglf.Position = axgl.Position;
 
-axv_l.Position =  [0.25*figxfct figyshift*0.22 figxfct*0.3, figyshift*0.67];
-axGvsl.Position = [0.675*figxfct figyshift*0.22 figxfct*0.3, figyshift*0.67];
+axv_l.Position =  [0.25*figxfct figyshift*0.3 figxfct*0.3, figyshift*0.6];
+axGvsl.Position = [0.675*figxfct figyshift*0.3 figxfct*0.3, figyshift*0.6];
 axv_lf.Position = axv_l.Position
 axGvslf.Position = axGvsl.Position
 
@@ -306,7 +306,7 @@ ylim(vlim)
 
 set(fig1,'CurrentAxes',axGvslf)
 hold on
-text(scattxl(2)*-3.67,Glim(2)*-0.25,'(Albertini et al., 2020)')%,'color','w')
+text(scattxl(2)*-1.45,Glim(2)*-0.4,'(Albertini et al., 2020)')%,'color','w')
 set(axGvslf,'color','none');
 set(axGvslf,'XTickLabel',[]);
 set(axGvslf,'YTickLabel',[]);
