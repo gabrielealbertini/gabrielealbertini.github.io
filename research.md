@@ -6,7 +6,7 @@
 
 ## Fracture ##
 
-### What happens when a crack get trapped by an obstacle?
+### What happens when a crack gets trapped by an obstacle?
 
 ![3D printed sample with applied forces](2020_3d_printed_fracture/method_FIG1a.png)
 
@@ -22,7 +22,7 @@
 
 *How does random local strength affect the static friction coefficient?*
 
-![Stochastic Properties of Static Friction](2020_stochastic_static_friction/fig03_movie.gif)
+![Stochastic Properties of Static Friction](2020_stochastic_static_friction/fig03_movie_web.gif)
 
 *Albertini, G.*, Karrer, S., Grigoriu, M. D., Kammer, D. S., 2020. [“Stochastic Properties of Static Friction”](http://arxiv.org/abs/2005.06113){:target="_blank"},
 **under review**.
