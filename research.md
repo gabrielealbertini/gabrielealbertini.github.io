@@ -6,6 +6,8 @@
 
 ## Fracture ##
 
+### What happens when a crack get trapped by an obstacle?
+
 ![3D printed sample with applied forces](2020_3d_printed_fracture/method_FIG1a.png)
 
 ![Fracture of Heterogeneous Materials](2020_3d_printed_fracture/Stripes_5.0_VC_VWDW_06_strain_images_v2_white_square_small.gif)
@@ -16,7 +18,11 @@
 
 ## Friction/Earthquakes ##
 
-<!--![Stochastic Properties of Static Friction](2020_stochastic_static_friction/fig01_model.png)-->
+### Nucleation of slip patches mediate the onset of frictional motion
+
+*How does random local strength affect the static friction coefficient?*
+
+![Stochastic Properties of Static Friction](2020_stochastic_static_friction/fig03_movie.gif)
 
 *Albertini, G.*, Karrer, S., Grigoriu, M. D., Kammer, D. S., 2020. [“Stochastic Properties of Static Friction”](http://arxiv.org/abs/2005.06113){:target="_blank"},
 **under review**.
