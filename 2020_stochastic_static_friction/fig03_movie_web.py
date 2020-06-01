@@ -54,7 +54,7 @@ data_gen.t = 0
 # create a figure with three subplots 
 fig = plt.figure()
 spec0 = gridspec.GridSpec(ncols=1,nrows=1,left=0.02,right=0.5,top=1,bottom=0.68,hspace=0.2)
-spec1 = gridspec.GridSpec(ncols=2,nrows=1,left=0.15,right=0.96,top=0.97,bottom=0.8,hspace=0.2)
+spec1 = gridspec.GridSpec(ncols=2,nrows=1,left=0.15,right=0.96,top=0.97,bottom=0.8,wspace=0.5)
 spec2 = gridspec.GridSpec(ncols=1,nrows=2,left=0.15, right=0.96,top=0.65,bottom=0.15,hspace=0.2)
 ax0 = fig.add_subplot(spec0[0, 0])
 ax1 = fig.add_subplot(spec1[0, 1])#, sharex=ax)
@@ -101,7 +101,7 @@ with open('data/stochastic_50-datamanager-files/stochastic_50.tauc.random') as f
 
 ax2.plot(x/L,taup/taupm,color=np.array([1,1,1])*0.7)
 
-ax2.annotate(r'$\mathrm{(Albertini \ et \  al. \ 2020)}$', xy=(-0.175, -3.55), annotation_clip=False,)#, xycoords='data'
+ax2.annotate(r'$\mathrm{(Albertini \ et \  al., \ 2020)}$', xy=(-0.175, -3.55), annotation_clip=False,)#, xycoords='data'
 line0, = ax1.plot([], [], color=matlab_colors[6])
 line1, = ax2.plot(x00/L, tau00/taupm, color=matlab_colors[0])
 line2, = ax3.plot([], [], color=matlab_colors[4])
