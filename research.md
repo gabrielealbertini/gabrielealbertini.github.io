@@ -30,8 +30,10 @@
 
 ## Friction is Fracture ##
 
-*The onset of frictional motion is characterized by the propagation of slip fronts. These slip fronts are analogous to shear cracks, they break the discrete contacts at the frictional interface allowing sliding to occur.
-In this study, we combine friction experiments with fracture-mechanics theory and simulations to study long sought-after interface properties, such as local fracture energy and frictional peak strength.*
+*The onset of frictional motion is characterized by the propagation of slip fronts, which -- like cracks --  break the discrete contacts at the frictional interface allowing sliding to occur.
+In this study, we combine friction experiments with fracture-mechanics simulations and theory to study long sought-after interface properties, such as local fracture energy and frictional peak strength.*
+
+<!--![supershear](2020_supershear/Simfig05a.png)-->
 
 Svetlizky, I.<sup>1</sup>, *Albertini, G.<sup>1</sup>*, Cohen, G., Kammer, D.S. and Fineberg, J., 2020. 
 ["Dynamic fields at the tip of sub-Rayleigh and supershear frictional rupture fronts"](https://doi.org/10.1016/j.jmps.2019.103826){:target="_blank"}, 
@@ -43,6 +45,7 @@ Svetlizky, I.<sup>1</sup>, *Albertini, G.<sup>1</sup>*, Cohen, G., Kammer, D.S. 
 Ma, X., Hajarolasvadi, S., *Albertini, G.*, Kammer, D.S., Elbanna, A.E., 2019. 
 ["A hybrid finite element-spectral boundary integral approach: Applications to dynamic rupture modeling in unbounded domains"](https://doi.org/10.1002/nag.2865){:target="_blank"},
 **International Journal for Numerical and Analytical Methods in Geomechanics** 43, 1, 317-338. 
+
 
 *Albertini, G.*, Kammer, D.S., 2017. 
 [“Off-fault heterogeneities promote supershear transition of dynamic mode II cracks”](https://doi.org/10.1002/2017JB014301){:target="_blank"},
