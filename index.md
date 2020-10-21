@@ -1,5 +1,5 @@
 |-|-|
-[Research](research.md) | [Contact](contact.md) | [CV](gabriele_albertini_vitae.pdf) |
+[Research](research.md) | [Publications](publications.md) | [Contact](contact.md) | [CV](gabriele_albertini_vitae.pdf) |
 |-|-|
 | | |
 |-|-|
@@ -11,7 +11,7 @@ I mainly use numerical modeling of solids, high-performance computing and theore
 I also have experience on experimental fracture mechanics and Digital Image Correlation.
 
 I am a fourth year PhD candidate at Cornell University and visiting researcher at ETH Zurich. 
-I am lucky to be advised by [David Kammer](https://ifb.ethz.ch/compmech/people/prof-dr-david-kammer.html){:target="_blank"} and my dissertation is on *dynamic fracture of heterogeneous materials*. 
+I am  advised by [David Kammer](https://ifb.ethz.ch/compmech/people/prof-dr-david-kammer.html){:target="_blank"} and my dissertation is on *dynamic fracture of heterogeneous materials*. 
 
 I used numerical and theoretical models to uncover the *physical mechanisms governing friction* in a collaboration with [Jay Fineberg](http://old.phys.huji.ac.il/~jay/){:target="_blank"} and [Ilya Svetlizky](https://scholar.google.co.il/citations?user=44mVMhIAAAAJ&hl=en){:target="_blank"}, who performed the experimental work.
 

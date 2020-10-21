@@ -1,5 +1,5 @@
 |-|-|
-**Research** | [Contact](contact.md) | [CV](gabriele_albertini_vitae.pdf) |
+**Research**  | [Publications](publications.md) | [Contact](contact.md) | [CV](gabriele_albertini_vitae.pdf) |
 |-|-|
 | | |
 |-|-|
