@@ -6,7 +6,7 @@
 
 # 2020
 
-Schär, S., Albertini, G.and Kammer, D. S., 2020., [“Nucleation of frictional sliding by coalescence of microslip”](http://arxiv.org/abs/2010.04343){:target="_blank"}, **under review**. 
+Schär, S., *Albertini, G.* and Kammer, D. S., 2020., [“Nucleation of frictional sliding by coalescence of microslip”](http://arxiv.org/abs/2010.04343){:target="_blank"}, **under review**. 
 
 *Albertini, G.*, Karrer, S., Grigoriu, M. D., Kammer, D. S., 2020. [“Stochastic Properties of Static Friction”](http://arxiv.org/abs/2005.06113){:target="_blank"},
 **under review**.
