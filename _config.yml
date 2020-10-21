@@ -17,6 +17,7 @@ relative_links:
 include:
   - CONTRIBUTING.md
   - contact.md
+  - publications.md
   - LICENSE.md
   - COPYING.md
   - CODE_OF_CONDUCT.md
