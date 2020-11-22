@@ -16,7 +16,7 @@
 [“Effective toughness of periodic heterogeneous materials: the role of rate-dependent fracture energy”](https://arxiv.org/abs/2003.13805){:target="_blank"}, 
 **under review**.
 
-4. *Albertini, G.*, Karrer, S., Grigoriu, M. D., Kammer, D. S., 2020. [“Stochastic Properties of Static Friction”](http://arxiv.org/abs/2005.06113){:target="_blank"}, **Journal of the Mechanics and Physics of Solids,** *in press*. 
+4. *Albertini, G.*, Karrer, S., Grigoriu, M. D., Kammer, D. S., 2020. [“Stochastic Properties of Static Friction”](https://doi.org/10.1016/j.jmps.2020.104242){:target="_blank"}, **Journal of the Mechanics and Physics of Solids,** *in press*. 
 
 3. Svetlizky, I.<sup>1</sup>, *Albertini, G.<sup>1</sup>*, Cohen, G., Kammer, D.S. and Fineberg, J., 2020. 
 ["Dynamic fields at the tip of sub-Rayleigh and supershear frictional rupture fronts"](https://doi.org/10.1016/j.jmps.2019.103826){:target="_blank"}, 

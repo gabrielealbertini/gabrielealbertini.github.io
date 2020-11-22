@@ -24,7 +24,7 @@
 
 ![Stochastic Properties of Static Friction](2020_stochastic_static_friction/fig03_movie_web.gif)
 
-*Albertini, G.*, Karrer, S., Grigoriu, M. D., Kammer, D. S., 2020. [“Stochastic Properties of Static Friction”](http://arxiv.org/abs/2005.06113){:target="_blank"}, **Journal of the Mechanics and Physics of Solids,** *in press*. 
+*Albertini, G.*, Karrer, S., Grigoriu, M. D., Kammer, D. S., 2020. [“Stochastic Properties of Static Friction”](https://doi.org/10.1016/j.jmps.2020.104242){:target="_blank"}, **Journal of the Mechanics and Physics of Solids,** *in press*. 
 
 
 
