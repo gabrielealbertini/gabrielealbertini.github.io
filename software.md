@@ -11,4 +11,4 @@
 
 1. **uguca** (2021), Kammer, D.S., *Albertini, G.* and Ke, C.Y.
 An open-source code for modeling fracture and friction with the spectral-boundary-integral method.
-https://gitlab.com/uguca (v0.9)
+[gitlab.com/uguca](https://gitlab.com/uguca) (v0.9)
