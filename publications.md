@@ -1,22 +1,28 @@
 |-|-|
-[Research](research.md) | **Publications** | [Contact](contact.md) | [CV](gabriele_albertini_vitae.pdf){:target="_blank"} |
+[Research](research.md) | **Publications** | [Software](software.md)| [Contact](contact.md) | [CV](gabriele_albertini_vitae.pdf){:target="_blank"} |
 |-|-|
 | | |
 |-|-|
 
-# 2020
 
+# 2021
 
+8. Kammer, D.S., *Albertini, G*. and Ke, C.Y., 2021, “UGUCA: a spectral-boundary-integral method for modeling fracture and friction”, **under review**.
 
+7. *Albertini, G.*, Elbanna, A. and Kammer, D.S., 2021. [“A three-dimensional hybrid finite element --
+spectral boundary integral method for modeling earthquakes in complex unbounded domains”](http://arxiv.org/abs/2102.08756), 
+**under review**.
 
+6. Schär, S., *Albertini, G.* and Kammer, D. S., 2021, [“Nucleation of frictional sliding by coalescence of microslip”](http://arxiv.org/abs/2010.04343){:target="_blank"}, **under review**.
 
-6. Schär, S., *Albertini, G.* and Kammer, D. S., 2020., [“Nucleation of frictional sliding by coalescence of microslip”](http://arxiv.org/abs/2010.04343){:target="_blank"}, **under review**.
-
-5. *Albertini, G.*, Lebihain, M., Hild, F. Ponson, L. and Kammer, D.S., 2020. 
+5. *Albertini, G.*, Lebihain, M., Hild, F. Ponson, L. and Kammer, D.S., 2021,
 [“Effective toughness of periodic heterogeneous materials: the role of rate-dependent fracture energy”](https://arxiv.org/abs/2003.13805){:target="_blank"}, 
 **under review**.
 
-4. *Albertini, G.*, Karrer, S., Grigoriu, M. D., Kammer, D. S., 2020. [“Stochastic Properties of Static Friction”](https://doi.org/10.1016/j.jmps.2020.104242){:target="_blank"}, **Journal of the Mechanics and Physics of Solids,** *in press*. 
+4. *Albertini, G.*, Karrer, S., Grigoriu, M. D., Kammer, D. S., 2021. [“Stochastic Properties of Static Friction”](https://doi.org/10.1016/j.jmps.2020.104242){:target="_blank"}, **Journal of the Mechanics and Physics of Solids,** 147, 104242. 
+
+# 2020
+
 
 3. Svetlizky, I.<sup>1</sup>, *Albertini, G.<sup>1</sup>*, Cohen, G., Kammer, D.S. and Fineberg, J., 2020. 
 ["Dynamic fields at the tip of sub-Rayleigh and supershear frictional rupture fronts"](https://doi.org/10.1016/j.jmps.2019.103826){:target="_blank"}, 
