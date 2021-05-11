@@ -13,11 +13,12 @@
 spectral boundary integral method for modeling earthquakes in complex unbounded domains”](http://arxiv.org/abs/2102.08756), 
 **under review**.
 
-6. Schär, S., *Albertini, G.* and Kammer, D. S., 2021, [“Nucleation of frictional sliding by coalescence of microslip”](http://arxiv.org/abs/2010.04343){:target="_blank"}, **under review**.
 
-5. *Albertini, G.*, Lebihain, M., Hild, F. Ponson, L. and Kammer, D.S., 2021,
+6. *Albertini, G.*, Lebihain, M., Hild, F. Ponson, L. and Kammer, D.S., 2021,
 [“Effective toughness of periodic heterogeneous materials: the role of rate-dependent fracture energy”](https://arxiv.org/abs/2003.13805){:target="_blank"}, 
 **under review**.
+
+5. Schär, S., *Albertini, G.* and Kammer, D. S., 2021, [“Nucleation of frictional sliding by coalescence of microslip”](https://doi.org/10.1016/j.ijsolstr.2021.111059){:target="_blank"}, **International Journal of Solids and Structures,** 220, 111059.
 
 4. *Albertini, G.*, Karrer, S., Grigoriu, M. D., Kammer, D. S., 2021. [“Stochastic Properties of Static Friction”](https://doi.org/10.1016/j.jmps.2020.104242){:target="_blank"}, **Journal of the Mechanics and Physics of Solids,** 147, 104242. 
 
