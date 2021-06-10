@@ -6,15 +6,17 @@
 
 # Fracture #
 
-## What happens when a crack gets trapped by an obstacle? ##
+## What happens when a crack gets trapped by an obstacle of higher fracture energy? ##
+
+The crack adapts instantaneously its propagation speeds. The speed jump amplitude is governed by the crack tip energy balance, as predicted by brittle fracture theory.
 
 ![3D printed sample with applied forces](2020_3d_printed_fracture/method_FIG1a.png)
 
 ![Fracture of Heterogeneous Materials](2020_3d_printed_fracture/Stripes_5.0_VC_VWDW_06_strain_images_v2_white_square_small.gif)
 
-*Albertini, G.*, Lebihain, M., Hild, F. Ponson, L. and Kammer, D.S., 2020. 
-[“Effective toughness of periodic heterogeneous materials: the role of rate-dependent fracture energy”](https://arxiv.org/abs/2003.13805){:target="_blank"}, 
-**under review**.
+*Albertini, G.*, Lebihain, M., Hild, F. Ponson, L. and Kammer, D.S., 2021. 
+[“Effective toughness of heterogeneous materials with rate-dependent fracture energy”](https://arxiv.org/abs/2003.13805){:target="_blank"}, 
+**Physical Review Letters,** accepted.
 
 # Friction #
 

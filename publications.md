@@ -15,8 +15,8 @@ spectral boundary integral method for modeling earthquakes in complex unbounded 
 
 
 6. *Albertini, G.*, Lebihain, M., Hild, F. Ponson, L. and Kammer, D.S., 2021,
-[“Effective toughness of periodic heterogeneous materials: the role of rate-dependent fracture energy”](https://arxiv.org/abs/2003.13805){:target="_blank"}, 
-**under review**.
+[“Effective toughness of  heterogeneous materials with rate-dependent fracture energy”](https://arxiv.org/abs/2003.13805){:target="_blank"}, 
+**Physical Review Letters,** accepted.
 
 5. Schär, S., *Albertini, G.* and Kammer, D. S., 2021, [“Nucleation of frictional sliding by coalescence of microslip”](https://doi.org/10.1016/j.ijsolstr.2021.111059){:target="_blank"}, **International Journal of Solids and Structures,** 220, 111059.
 
