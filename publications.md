@@ -21,10 +21,10 @@ spectral boundary integral method for modeling earthquakes in complex unbounded 
 [arXiv:2003.13805](https://arxiv.org/abs/2003.13805){:target="_blank"}
 
 5. Schär, S., *Albertini, G.* and Kammer, D. S., 2021, [“Nucleation of frictional sliding by coalescence of microslip”](https://doi.org/10.1016/j.ijsolstr.2021.111059){:target="_blank"}, **International Journal of Solids and Structures** 220, 111059. 
-[arXiv:2010.0434](https://arxiv.org/abs/2010.04343){:target="_blank"}
+<!--[arXiv:2010.0434](https://arxiv.org/abs/2010.04343){:target="_blank"}-->
 
 4. *Albertini, G.*, Karrer, S., Grigoriu, M. D., Kammer, D. S., 2021. [“Stochastic Properties of Static Friction”](https://doi.org/10.1016/j.jmps.2020.104242){:target="_blank"}, **Journal of the Mechanics and Physics of Solids** 147, 104242. 
-[arXiv:2005.06113](http://arxiv.org/abs/2005.06113){:target="_blank"}
+<!--[arXiv:2005.06113](http://arxiv.org/abs/2005.06113){:target="_blank"}-->
 
 # 2020
 
@@ -33,7 +33,7 @@ spectral boundary integral method for modeling earthquakes in complex unbounded 
 ["Dynamic fields at the tip of sub-Rayleigh and supershear frictional rupture fronts"](https://doi.org/10.1016/j.jmps.2019.103826){:target="_blank"}, 
 **Journal of the Mechanics and Physics of Solids** 137, 103826. \\
 <sup>1</sup>Equally Contributed
-[arXiv:1908.10412](http://arxiv.org/abs/1908.10412){:target="_blank"}
+<!--[arXiv:1908.10412](http://arxiv.org/abs/1908.10412){:target="_blank"}-->
 
 # 2019
 
