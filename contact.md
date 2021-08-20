@@ -10,6 +10,7 @@
 
 <img src="images/profile_photo_id_bw.jpg" onmouseover="this.src='images/IMG-8773_mnt_pleasant_crop.JPG'" onmouseout="this.src='images/profile_photo_id_bw.jpg'" /> 
 
+<!--
 Gabriele Albertini\\
 Hollister Hall, 253\\
 Cornell University\\
@@ -17,6 +18,15 @@ Ithaca, NY 14853
 
 [ga288@cornell.edu](mailto:ga288@cornell.edu)
 	
+-->
+Gabriele Albertini, PhD\\
+Harvard University\\
+John A. Paulson School of Engineering and Applied Sciences\\
+Pierce Hall 410, 29 Oxford Street, Cambridge, MA 02138, USA
+
+
+[galbertini@seas.harvard.edu](mailto:galbertini@seas.harvard.edu)
+
 <!--Twitter: [@GabriAlbertini](https://twitter.com/GabriAlbertini){:target="_blank"}-->
 
 
