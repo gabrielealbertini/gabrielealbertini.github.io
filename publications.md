@@ -10,8 +10,9 @@
 9. *Albertini, G.*, 2021. ["Nucleation and Propagation of Fracture in Heterogeneous Materials"](https://www-proquest-com.proxy.library.cornell.edu/dissertations-theses/nucleation-propagation-fracture-heterogeneous/docview/2550608833/se-2?accountid=10267){:target="_blank"}, Dissertation, Cornell University.
 
 8. *Albertini, G.*, Elbanna, A. and Kammer, D.S., 2021. [“A three-dimensional hybrid finite element --
-spectral boundary integral method for modeling earthquakes in complex unbounded domains”](http://arxiv.org/abs/2102.08756){:target="_blank"}, 
-**International Journal for Numerical Methods in Engineering, accepted**.
+spectral boundary integral method for modeling earthquakes in complex unbounded domains”](https://doi.org/10.1002/nme.6816){:target="_blank"}
+**International Journal for Numerical Methods in Engineering, published online**.
+<!--[arXiv:2102.08756](http://arxiv.org/abs/2102.08756){:target="_blank"}-->
 
 7. Kammer, D.S., *Albertini, G*. and Ke, C.Y., 2021, [“UGUCA: A spectral-boundary-integral method for modeling fracture and friction”](https://doi.org/10.1016/j.softx.2021.100785){:target="_blank"}, **SoftwareX** 15, 100785.
 
