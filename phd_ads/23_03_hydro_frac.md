@@ -14,7 +14,7 @@ This position is part of a joint project between the Geo-Energy Research Centre 
 -	Additionally, you have prior programming experience and are fluent in English (oral and written)
 -	You show enthusiasm for conducting original research in an interdisciplinary and international team, and you strive for scientific excellence.
 
-## [Your workplace](https://goo.gl/maps/SJiWHPYRP1f35gJ46)
+## [Your workplace](https://goo.gl/maps/SJiWHPYRP1f35gJ46){:target="_blank"}
 
 
 ## We offer
