@@ -15,8 +15,6 @@ This position is part of a joint project between the Nottingham Transportation E
 
 ## [Your workplace](https://goo.gl/maps/SJiWHPYRP1f35gJ46){:target="_blank"}
 
-![Your workplace](https://goo.gl/maps/SJiWHPYRP1f35gJ46)
-
 ## We offer
 The University of Nottingham is a family-friendly employer with excellent working conditions. You can look forward to an exciting working environment, cultural diversity and attractive offers and benefits.
 
