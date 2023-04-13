@@ -2,7 +2,7 @@
 
 The Albertini Lab at the University of Nottingham has an opening for a PhD student (home or international) in numerical modelling of rubber friction. The position is fully funded on a competitive basis with starting date 2023/2024.
 
-## Project background
+## Project background
 We conduct research at the interface between mechanics, materials and scientific computing. Our research focusses on modelling the link between micro- to mesoscale properties of engineering and geophysical materials and their macroscale mechanical behaviour. The centre of our interests is on dynamic fracture, friction, earthquake source mechanics and granular material mechanics. We aim to provide a fundamental understanding of multi-scale and multi-physical mechanics of materials and develop predictive numerical tools for mechanical failure of materials and structures.
 
 ## Job Description
