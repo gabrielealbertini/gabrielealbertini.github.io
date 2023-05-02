@@ -4,6 +4,9 @@
 | | |
 |-|-|
 
+# 2022
+
+10. Cochard, T., Svetlizky, I., *Albertini, G.,* Viesca, R., Rubinstein, S.,  Spaepen, F., Yuan, C., Denolle, M.,  Song, Y.Q., Xiao, L., Weitz, D., ["Unexpected Dynamics in the Propagation of Fracture Fronts"](https://assets.researchsquare.com/files/rs-2635293/v1/3bb5dfee-b573-4bbc-bccb-9f301487a715.pdf?c=1682634833){:target="_blank"}, under review.
 
 # 2021
 
