@@ -8,7 +8,7 @@
 
 ![](images/profile_photo_id_bw.jpg)
 
-Gabriele is Assistant Professor in Structural Engineering at the University of Nottingham, UK. His research focuses on fracture, friction, and earthquake source mechanics. He combines numerical and theoretical models to gain better understanding of experimental observation and uncover the underlying physics. He aims to address climate change, sustainability, and infrastructure resilience related challenges by developing new numerical modelling and experimental techniques and integrating them with validation testing, structural monitoring and probabilistic analyses. 
+Gabriele is Assistant Professor in Structural Engineering at the University of Nottingham, UK. His research focuses on fracture, friction, and earthquake source mechanics. He combines numerical and theoretical models to gain better understanding of experimental observation and uncover the underlying physics. He aims to address climate change, sustainability, and infrastructure resilience related challenges by developing new numerical modelling and experimental techniques and integrating them with validation testing, structural monitoring, and probabilistic analyses. 
 Previously, he was a Swiss National Science Foundation Postdoctoral Fellow at Harvard University and received his PhD from Cornell University in 2021 with thesis titled "Nucleation and Propagation of Fracture in Heterogeneous Materials". During his doctoral training he was a vising researcher at ETH Zurich and at the Institut Jean le Rond d'Alembert at Sorbonne Université. He holds a BSc and a MSc in civil engineering at École Polytechnique Fédérale de Lausanne (EPFL).
 
 
