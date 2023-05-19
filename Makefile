@@ -3,7 +3,7 @@
 all: cv
 
 cv:
-	cp ../curriculum_vitae/gabriele_albertini_vitae_web.pdf gabriele_albertini_vitae.pdf
+	cp ../curriculum_vitae/gabriele_albertini_vitae.pdf gabriele_albertini_vitae.pdf
 	git add gabriele_albertini_vitae.pdf
 	git commit -m "update cv"
 	git push

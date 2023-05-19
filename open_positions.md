@@ -7,7 +7,7 @@
 Positions are always available for students interested in studying the mechanical behaviour of engineering, biological and geophysical materials and systems.
 
 For UK students with excellent degrees in engineering and physical sciences, full funding (fees and stipend) is always available for PhD degrees.
-If you have a first-class degree (or equivalent) and you are interested in integrating mechanics with scientific computing in a novel and interdisciplinary approach, 
+If you have a first-class degree (or equivalent) and you are interested in integrating mechanics with scientific computing and data science in a novel and interdisciplinary approach, 
 and would like to join Gabriele's research group, please contact me by 
 [email](mailto:gabriele.albertini@nottingham.ac.uk) so that funding can be arranged.
 
@@ -29,6 +29,10 @@ Funding opportunities for UK and international PhD candidates and postdoctoral r
 ## Postdoctoral Fellowhips
 
 - [Nottingham Research Fellowship](https://www.nottingham.ac.uk/research/researchwithus/fellowships/nottingham/index.aspx)
+
+- [EPSRC Postdoctoral Fellowhip](https://www.ukri.org/opportunity/epsrc-postdoctoral-fellowship/)
+
+- [1851 Research Fellowships](https://royalcommission1851.org/)
 
 - [Marie Sklodowska-Curie Actions Fellowship](https://ec.europa.eu/research/mariecurieactions/)
 
