@@ -1,8 +1,9 @@
+
 theme: jekyll-theme-minimal
 
 title: Gabriele Albertini
 logo: 013839_crop_crop_big_invert_crop.png
-description:  <a href="/research.html">Theoretical and Applied Mechanics</a> <p><small>&copy; 2020 Gabriele Albertini</small></p>
+description:  <a href="/research.html">Mechanics of Materials and Structures</a> <p><small>&copy; 2020 Gabriele Albertini</small></p>
 show_downloads: false
 auto_ids: true
 

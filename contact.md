@@ -8,7 +8,7 @@
 
 <!--<img src="images/profile_photo_id_bw.png" onmouseover="this.src='images/IMG_9317-2_utah_small.jpg'" onmouseout="this.src='images/profile_photo_id_bw.png'" /> -->
 
-<img src="images/profile_photo_id_bw.jpg" onmouseover="this.src='images/IMG-8773_mnt_pleasant_crop.JPG'" onmouseout="this.src='images/profile_photo_id_bw.jpg'" /> 
+<img src="images/profile_photo_id_bw.jpg" onmouseover="this.src='images/IMG-8773_mnt_pleasant_crop.JPG'" onmouseout="this.src='images/profile_photo.jpg'" /> 
 
 Gabriele Albertini\\
 The Coates Building, B68\\
