@@ -4,9 +4,15 @@
 | | |
 |-|-|
 
-# 2022
+# 2024
 
-10. Cochard, T., Svetlizky, I., *Albertini, G.,* Viesca, R., Rubinstein, S.,  Spaepen, F., Yuan, C., Denolle, M.,  Song, Y.Q., Xiao, L., Weitz, D., ["Unexpected Dynamics in the Propagation of Fracture Fronts"](https://assets.researchsquare.com/files/rs-2635293/v1/3bb5dfee-b573-4bbc-bccb-9f301487a715.pdf?c=1682634833){:target="_blank"}, under review.
+10. Cochard, T., Svetlizky, I., *Albertini, G.,* Viesca, R., Rubinstein, S.,  Spaepen, F., Yuan, C., Denolle, M.,  Song, Y.Q., Xiao, L., Weitz, D., 2024. ["Propagation of extended fractures by local nucleation and rapid transverse expansion of crack-front distortion"](https://www.nature.com/articles/s41567-023-02365-0){:target="_blank"}
+**Nature Physics** .
+
+<!--["Unexpected Dynamics in the Propagation of Fracture Fronts"](https://assets.researchsquare.com/files/rs-2635293/v1/3bb5dfee-b573-4bbc-bccb-9f301487a715.pdf?c=1682634833){:target="_blank"}, under review.-->
+
+11.  Traseira-Piñeiro, L., Bodaghi, M., Grizi, A., Garcia-Hernandez, A.,  Albertini, G., 2024. [Energy-absorbing particles for enhanced mechanical performance of asphalt's aggregate skeleton](https://doi.org/10.1016/j.conbuildmat.2024.135055){:target="_blank"}
+**Construction and Building Materials** 415, 135055. 
 
 # 2021
 
