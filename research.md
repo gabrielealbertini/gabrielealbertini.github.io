@@ -10,7 +10,7 @@
 
 When cracks slowly move forward in a 3D brittle material, they do so because of accompanying dynamic cracks propagating perpendicular to the main direction of motion.
 
-![crack front distortion.](2024_stick_break/Fig2_HTML.png.webp)
+![crack front distortion.](2024_stick_break/fig2_web.pdf)
 
  Cochard, T., Svetlizky, I., *Albertini, G.,* Viesca, R., Rubinstein, S.,  Spaepen, F., Yuan, C., Denolle, M.,  Song, Y.Q., Xiao, L., Weitz, D., 2024. ["Propagation of extended fractures by local nucleation and rapid transverse expansion of crack-front distortion"](https://www.nature.com/articles/s41567-023-02365-0){:target="_blank"}
 **Nature Physics**.
