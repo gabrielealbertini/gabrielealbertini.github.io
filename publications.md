@@ -4,7 +4,7 @@
 | | |
 |-|-|
 
-![Google Scholar](https://scholar.google.com/citations?user=hcGejO0AAAAJ&hl=en&oi=ao){:target="_blank"}
+[Google Scholar](https://scholar.google.com/citations?user=hcGejO0AAAAJ&hl=en&oi=ao){:target="_blank"}
 
 # 2024
 
