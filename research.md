@@ -6,6 +6,16 @@
 
 # Fracture #
 
+## Breaking fast and slow: How do crack propagate in 3D?
+
+When cracks slowly move forward in a 3D brittle material, they do so because of accompanying dynamic cracks propagating perpendicular to the main direction of motion.
+
+![crack front distortion.](2024_stick_break/Fig2_HTML.png.webp)
+
+ Cochard, T., Svetlizky, I., *Albertini, G.,* Viesca, R., Rubinstein, S.,  Spaepen, F., Yuan, C., Denolle, M.,  Song, Y.Q., Xiao, L., Weitz, D., 2024. ["Propagation of extended fractures by local nucleation and rapid transverse expansion of crack-front distortion"](https://www.nature.com/articles/s41567-023-02365-0){:target="_blank"}
+**Nature Physics**.
+
+
 ## What happens when a crack gets trapped by an obstacle of higher fracture energy? ##
 
 The crack adapts instantaneously its propagation speeds. The speed jump amplitude is governed by the crack tip energy balance, as predicted by brittle fracture theory.
@@ -14,9 +24,10 @@ The crack adapts instantaneously its propagation speeds. The speed jump amplitud
 
 ![Fracture of Heterogeneous Materials](2020_3d_printed_fracture/Stripes_5.0_VC_VWDW_06_strain_images_v2_white_square_small.gif)
 
-*Albertini, G.*, Lebihain, M., Hild, F. Ponson, L. and Kammer, D.S., 2021. 
-[“Effective toughness of heterogeneous materials with rate-dependent fracture energy”](https://arxiv.org/abs/2003.13805){:target="_blank"}, 
-**Physical Review Letters,** accepted.
+*Albertini, G.*, Lebihain, M., Hild, F. Ponson, L. and Kammer, D.S., 2021,
+[“Effective toughness of  heterogeneous materials with rate-dependent fracture energy”](https://doi.org/10.1103/PhysRevLett.127.035501){:target="_blank"}, 
+**Physical Review Letters** 127, 035501. 
+[arXiv:2003.13805](https://arxiv.org/abs/2003.13805){:target="_blank"}
 
 # Friction #
 
@@ -26,13 +37,13 @@ The crack adapts instantaneously its propagation speeds. The speed jump amplitud
 
 ![Stochastic Properties of Static Friction](2020_stochastic_static_friction/fig03_movie_web.gif)
 
-*Albertini, G.*, Karrer, S., Grigoriu, M. D., Kammer, D. S., 2020. [“Stochastic Properties of Static Friction”](https://doi.org/10.1016/j.jmps.2020.104242){:target="_blank"}, **Journal of the Mechanics and Physics of Solids,** *in press*. 
+*Albertini, G.*, Karrer, S., Grigoriu, M. D., Kammer, D. S., 2021. [“Stochastic Properties of Static Friction”](https://doi.org/10.1016/j.jmps.2020.104242){:target="_blank"}, **Journal of the Mechanics and Physics of Solids** 147, 104242. 
 
 
 
 ## Friction is Fracture ##
 
-*The onset of frictional motion is characterized by the propagation of slip fronts, which -- like cracks --  break the discrete contacts at the frictional interface allowing sliding to occur.
+*The onset of frictional motion is characterised by the propagation of slip fronts, which -- like cracks --  break the discrete contacts at the frictional interface allowing sliding to occur.
 In this study, we combine friction experiments with fracture-mechanics simulations and theory to study long sought-after interface properties, such as local fracture energy and frictional peak strength.*
 
 <!--![supershear](2020_supershear/Simfig05a.png)-->
@@ -42,7 +53,8 @@ Svetlizky, I.<sup>1</sup>, *Albertini, G.<sup>1</sup>*, Cohen, G., Kammer, D.S. 
 **Journal of the Mechanics and Physics of Solids** 137, 103826. \\
 <sup>1</sup>Equally Contributed
 
-## Earthquake modeling ##
+## Earthquake source mechanics ##
+
 
 Ma, X., Hajarolasvadi, S., *Albertini, G.*, Kammer, D.S., Elbanna, A.E., 2019. 
 ["A hybrid finite element-spectral boundary integral approach: Applications to dynamic rupture modeling in unbounded domains"](https://doi.org/10.1002/nag.2865){:target="_blank"},

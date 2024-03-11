@@ -4,6 +4,8 @@
 | | |
 |-|-|
 
+![Google Scholar](https://scholar.google.com/citations?user=hcGejO0AAAAJ&hl=en&oi=ao){:target="_blank"}
+
 # 2024
 
 10. Cochard, T., Svetlizky, I., *Albertini, G.,* Viesca, R., Rubinstein, S.,  Spaepen, F., Yuan, C., Denolle, M.,  Song, Y.Q., Xiao, L., Weitz, D., 2024. ["Propagation of extended fractures by local nucleation and rapid transverse expansion of crack-front distortion"](https://www.nature.com/articles/s41567-023-02365-0){:target="_blank"}
